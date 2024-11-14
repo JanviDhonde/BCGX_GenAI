@@ -1,7 +1,7 @@
 
 # BCG GenAI Consulting Job Simulation  
 **BCGX_GenAI:** <br>
-Completed BCG GenAI Job Simulation, where I developed an AI-powered financial chatbot using Python and pandas. Integrated financial data from 10-K and 10-Q reports to provide user-friendly insights. Gained hands-on experience in data manipulation, NLP, logic-based programming, and financial analysis.
+Completed BCG GenAI Job Simulation, where I developed an AI-powered financial chatbot using Python and pandas. Integrated financial data from 10-K and 10-Q reports to provide user-friendly insights. Gained hands-on experience in data manipulation, NLP, logic-based programming, and financial analysis..
 
 **Repository Overview:**  
 This repository highlights my experience in AI-powered financial chatbot development, completed during the BCG GenAI Consulting job simulation on Forage. Through this simulation, I acted as a developer and analyst tasked with creating a chatbot that translates complex financial data into clear, actionable insights. This project allowed me to deepen my skills in Python, natural language processing (NLP), and financial data analysis.
